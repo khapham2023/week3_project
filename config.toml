@@ -1,0 +1,4 @@
+[web]
+name='Dogs'
+url='https://dog.ceo/api/breeds/image/random'
+
